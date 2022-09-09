@@ -147,6 +147,7 @@ footer{
 
 @media (max-width: 600px){
     header{
+        height: 70px;
         justify-content: center;
     }
     .logo{
@@ -160,6 +161,7 @@ footer{
     .home-info, .home-img{
         width: 100%;
         padding: 10px;
+        text-align: left;
     }
  
 }
