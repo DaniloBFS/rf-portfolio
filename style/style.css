@@ -150,7 +150,7 @@ footer{
 
 @media (max-width: 600px){
     header{
-        height: 70px;
+        height: 60px;
         justify-content: center;
     }
     .logo{
