@@ -145,6 +145,9 @@ footer{
     text-align: center;
 }
 
+
+/*responsivo*/
+
 @media (max-width: 600px){
     header{
         height: 70px;
@@ -153,7 +156,9 @@ footer{
     .logo{
         display: none;
     }
+
     section#home{
+        padding-top: 45%;
         flex-direction: column-reverse;
         justify-content: center;
     }
